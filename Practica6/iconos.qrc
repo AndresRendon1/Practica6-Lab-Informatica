@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>agregar.png</file>
+        <file>iconfinder_Grey_ball_132046.png</file>
+        <file>detener.png</file>
+        <file>cerrar.png</file>
+        <file>iniciar.png</file>
+    </qresource>
+</RCC>
